@@ -12,5 +12,3 @@ I'm passionate about deep learning and building projects that make a real-world 
 - TensorFlow and PyTorch optimization techniques to fine-tune models  
 - Docker and multi-environment development for cleaner workflows  
 - Advanced speech processing methods, including attention mechanisms like CBAM and self-attention, and working with autoencoders
-
-Feel free to reach out if you want to chat about any of this or just connect!
